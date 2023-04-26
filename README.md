@@ -1,8 +1,8 @@
 <a href="https://www.manim.community/"><img alt="image" height="115" src="https://user-images.githubusercontent.com/65871712/234545001-8e87bd24-5e17-4ff9-9961-db3a19a9fa46.png" width="500"/>
 > [Google Disk with all animations](https://drive.google.com/drive/folders/1amplWSN7pFYrGsmmjnFnN4EoVZvjpU91)
 
-*Click on gif to view code*
-> 3D:
+
+> 3D(*Click on gif to view code*):
 > 
 > [![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlmODEwNzFiZmFjZWE1ZTU0NDA5MzczMWRmM2FlZDYxOWQ0ZWYyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/G9Q5yHAu37NuCnSCQc/giphy.gif)](https://github.com/socloseeee/innopolis_3d__manim/blob/main/files/(III)(1.4)expansion_and_sections_of_polyhedra.py)
 > [![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmYWIyZjEwMTU2ZTlhYTZkMTE3YThkODc4ZjlmNjE1ODAzOWY1NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QMs3YovKGLlpgFpfLe/giphy.gif)](https://github.com/socloseeee/innopolis_3d__manim/blob/main/files/(III)(1.4)expansion_and_sections_of_polyhedra_2.py)
