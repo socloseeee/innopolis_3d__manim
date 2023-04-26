@@ -7,7 +7,7 @@
 > [![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlmODEwNzFiZmFjZWE1ZTU0NDA5MzczMWRmM2FlZDYxOWQ0ZWYyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/G9Q5yHAu37NuCnSCQc/giphy.gif)](https://github.com/socloseeee/innopolis_3d__manim/blob/main/files/(III)(1.4)expansion_and_sections_of_polyhedra.py)
 > [![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNmYWIyZjEwMTU2ZTlhYTZkMTE3YThkODc4ZjlmNjE1ODAzOWY1NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QMs3YovKGLlpgFpfLe/giphy.gif)](https://github.com/socloseeee/innopolis_3d__manim/blob/main/files/(III)(1.4)expansion_and_sections_of_polyhedra_2.py)
 
-> 2D:
+> 2D(*Click on gif to view code*):
 > 
 > [![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYWI0NzBjYTE0M2FkN2ZiODlkODQ4OWM4OTRlNDJhZDRlODI4OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4eAeJ3XWTk8lNiPSyP/giphy.gif)](https://github.com/socloseeee/innopolis_3d__manim/blob/main/files/(I)(1.5)trident_lemma.py)
 > [![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAxZWVhZmNhNTFmYjBlNTQ1ZjRjZDM4NTE4OTIxMTQyNWQ5YzA4NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vhyfajGKSJYdOdgmmd/giphy.gif)](https://github.com/socloseeee/innopolis_3d__manim/blob/main/files/(III)(2.1)sphere_and_ball_2.py)
