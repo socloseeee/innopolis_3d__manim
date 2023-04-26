@@ -1,4 +1,4 @@
-[![image](https://user-images.githubusercontent.com/65871712/234545001-8e87bd24-5e17-4ff9-9961-db3a19a9fa46.png)](https://www.manim.community/)
+<a href="https://www.manim.community/"><img alt="image" height="640" src="https://user-images.githubusercontent.com/65871712/234545001-8e87bd24-5e17-4ff9-9961-db3a19a9fa46.png" width="500"/>
 > [Google Disk with all animations](https://drive.google.com/drive/folders/1amplWSN7pFYrGsmmjnFnN4EoVZvjpU91)
 
 > 3D:
